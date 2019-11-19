@@ -1,2 +1,2 @@
-# week2-102-demo
+# week12-102-demo
 git workshop demo
